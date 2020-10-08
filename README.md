@@ -1,4 +1,4 @@
-# elecrow_crowpi2
+# crowpi2
 
 ### Expanding the Raspberry Pi file system<br>
 open the PI’s configuration screen (in the terminal window) by typing:<br>
