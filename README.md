@@ -1,15 +1,15 @@
 # elecrow_crowpi2
 
-#####Expanding the Raspberry Pi file system
-open the PI’s configuration screen (in the terminal window) by typing:
+#####Expanding the Raspberry Pi file system<br>
+open the PI’s configuration screen (in the terminal window) by typing:<br>
 
-sudo raspi-config
+sudo raspi-config<br>
 
-Select as follows：
-![Image text]https://github.com/elecrow-engle/elecrow_crowpi2/blob/main/j1.png
-![Image text]https://github.com/elecrow-engle/elecrow_crowpi2/blob/main/j2.png
+Select as follows：<br>
+![Image text](https://github.com/elecrow-engle/elecrow_crowpi2/blob/main/j1.png)<br>
+![Image text](https://github.com/elecrow-engle/elecrow_crowpi2/blob/main/j2.png)<br>
 
-click:
+click:<br>
 Finish
 select ‘YES‘ when it asks for a reboot.
 #Which raspberry pi version is recommended by Crowpi2 software?
