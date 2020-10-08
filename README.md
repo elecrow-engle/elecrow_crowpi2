@@ -13,9 +13,8 @@ click:<br>
 `Finish`<br>
 select `YES` when it asks for a reboot.<br>
 ### Which raspberry pi version is recommended by Crowpi2 software?<br>
-<br>
 Crowpi2 software is recommended to run on RPi4 2G or higher, preferably 4G or 8GB.<br>
-
+<br>
 ### Why can't SDA0 pins be used?<br>
 Because this pin is used to detect the start pin of the PCBA board, it may cause the device to shut down if used.<br>
 <br>
